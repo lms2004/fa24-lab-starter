@@ -1,0 +1,9 @@
+[submodule "fa24-proj3-starter"]
+	path = fa24-proj3-starter
+	url = git@github.com:lms2004/fa24-proj3-starter.git
+[submodule "fa24-proj2-starter"]
+	path = fa24-proj2-starter
+	url = git@github.com:lms2004/fa24-proj2-starter.git
+[submodule "fa24-proj1-starter"]
+	path = fa24-proj1-starter
+	url = git@github.com:lms2004/fa24-proj1-starter.git
